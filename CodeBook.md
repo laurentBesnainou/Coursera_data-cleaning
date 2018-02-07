@@ -2,9 +2,9 @@
 
 This file describes the variables, the data, and any transformations or work that you performed to clean up the data
 ## Step 1
-the test and the train data have been merge
-the activity name has been added
-the subjet have also been added based on subject_train.txt and subject_test.txt
+- the test and the train data have been merge
+- the activity name has been added
+- the subjet have also been added based on subject_train.txt and subject_test.txt
 
 ## Variable description : subject
 the subject column is an identifier of the subject who carried out the experiment
